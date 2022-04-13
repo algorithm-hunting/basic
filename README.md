@@ -1,5 +1,5 @@
 # TOST 스터디 4기 코딩 D조 (앱 프로젝트 -> 알고리즘)
-![TOST img](https://cdn.imweb.me/thumbnail/20220311/737c29b73bdc1.png)
+![TOST img](https://cdn.imweb.me/thumbnail/20220409/38dbf19ffd34d.png)
 
 ##
 ### 스터디원 👩‍💻
